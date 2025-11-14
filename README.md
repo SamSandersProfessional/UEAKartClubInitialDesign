@@ -21,3 +21,8 @@ Results Page Example: <br/>
 <img width="2349" height="948" alt="image" src="https://github.com/user-attachments/assets/a1fcc630-53ca-41aa-9ba8-4d39ab6750b1" />
 <br />
 </p>
+
+Medium Fidelity Design: <br/>
+<img width="5032" height="3448" alt="Website Plan" src="https://github.com/user-attachments/assets/e1984c38-95ea-4232-8685-6aa855d3fa84" />
+
+
